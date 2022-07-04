@@ -18,7 +18,7 @@
   <img align="center" alt="Vinícius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vinícius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vinícius-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vinícius-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Vinícius-pic" height="150" style="border-radius:50px;" src="https://github.com/viniciuss-mendes/viniciuss-mendes/blob/main/Captura%20de%20tela%20.png">
 </div>
   
   ##
