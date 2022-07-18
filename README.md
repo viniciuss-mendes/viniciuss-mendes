@@ -23,7 +23,6 @@
   <img align="center" alt="Vinícius-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Vinícius-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Vinícius-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img align="right" alt="Vinícius-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
   ##
